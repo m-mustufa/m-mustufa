@@ -25,3 +25,5 @@ Complex UIs, scalable front-ends, production-grade back-ends, CI/CD deployment. 
 ## 📫 Reach me
 - Portfolio: [mustcode.netlify.app](https://mustcode.netlify.app)
 - LinkedIn: [linkedin.com/in/muhammad-mustafa-16477a99](https://linkedin.com/in/muhammad-mustafa-16477a99)
+- Phone/WhatsApp: +92 333 2284944
+- Email: mustufa50@gmail.com
