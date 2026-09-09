@@ -28,7 +28,7 @@ Solo-built, **live multi-tenant AI SaaS** for employee engagement. OpenAI + agen
 <td width="33%" valign="top">
 
 ### 🔧 AutoLeap
-SaaS serving **5,000+ auto-repair shops** across North America. My daily production work since 2021 — owning Workboard, Repair Orders & Purchase Orders modules. **2,800+ commits.** Live at [app.myautoleap.com](https://app.myautoleap.com/).
+SaaS serving **5,000+ auto-repair shops** across North America. My daily production work since 2021 — owning the Workboard, Repair Orders & Purchase Orders modules. **2,800+ commits.** Live at [app.myautoleap.com](https://app.myautoleap.com/).
 
 `Angular` `Node.js` `MongoDB` `TypeScript`
 
@@ -92,7 +92,7 @@ Most of my work lives in **private client repos** — the products above are whe
 
 **Didn't spot the skill you need? Let's chat anyway — I thrive on learning new tools and building what's next!**
 
-<p><a href="aisaaswithmustafa.com"><img src="https://img.shields.io/badge/mustcode.netlify.app-2ec4b6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a></p>
+<p><a href="aisaaswithmustafa.com"><b>AISaaSwithMustafa.com</b></a></p>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,100:2ec4b6&height=120&section=footer" width="100%"/>
