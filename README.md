@@ -5,7 +5,7 @@
 
 <!-- Contact Badges -->
 <p>
-<a href="https://pk.linkedin.com/in/muhammad-mustafa-16477a99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:mustufa50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://mustcode.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2ec4b6?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://pk.linkedin.com/in/muhammad-mustafa-16477a99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:mustufa50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="aisaaswithmustafa.com"><img src="https://img.shields.io/badge/Portfolio-2ec4b6?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
 
 <!-- Typing Effect -->
@@ -92,7 +92,7 @@ Most of my work lives in **private client repos** — the products above are whe
 
 **Didn't spot the skill you need? Let's chat anyway — I thrive on learning new tools and building what's next!**
 
-<p><a href="https://mustcode.netlify.app"><img src="https://img.shields.io/badge/mustcode.netlify.app-2ec4b6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a></p>
+<p><a href="aisaaswithmustafa.com"><img src="https://img.shields.io/badge/mustcode.netlify.app-2ec4b6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a></p>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,100:2ec4b6&height=120&section=footer" width="100%"/>
