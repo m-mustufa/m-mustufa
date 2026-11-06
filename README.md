@@ -1,6 +1,6 @@
 # Muhammad Mustafa
 
-### Senior Full-Stack SaaS & AI Developer
+### Senior Full Stack SaaS & AI Developer | JavaScript, TypeScript, React, Next.js, Angular, Node.js
 
 Hi, I'm **Muhammad Mustafa**, a **Senior Full-Stack SaaS & AI Developer** with 10+ years of experience. As a full stack developer, I build production SaaS platforms, AI features and scalable web apps with **React, Next.js, Angular, Node.js and TypeScript**, for startups and businesses in the UAE and worldwide.
 
