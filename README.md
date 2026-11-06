@@ -42,44 +42,106 @@ Built the React and TypeScript frontend, Node.js and Express APIs, MongoDB data 
 <td width="33%" valign="top">
 
 ### 🔧 AutoLeap
-SaaS serving **5,000+ auto-repair shops** across North America. My daily production work since 2021 — owning the Workboard, Repair Orders & Purchase Orders modules. **2,800+ commits.** Live at [app.myautoleap.com](https://app.myautoleap.com/).
 
-`Angular` `Node.js` `MongoDB` `TypeScript`
+<a href="https://app.myautoleap.com/">
+  <img
+    src="https://aisaaswithmustafa.com/assets/img/portfolio/autoleap-dashboard-saas-600w.jpg"
+    alt="AutoLeap automotive repair SaaS dashboard showing business performance and customer reviews"
+    width="100%"
+  />
+</a>
 
+Automotive shop-management **SaaS serving 5,000+ auto-repair shops** across North America.
+
+As a senior engineer, I own the Workboard, Repair Orders and Purchase Orders modules, led the Angular upgrade from v8 through v19, and have shipped **2,800+ commits**.
+
+`Angular` `TypeScript` `Node.js` `MongoDB`
+
+[Live product](https://app.myautoleap.com/) · [Portfolio](https://aisaaswithmustafa.com/portfolio.html) · [Case study](https://aisaaswithmustafa.com/assets/docs/autoleap-case-study.pdf)
+
+<sub>Source code is private because AutoLeap is a commercial product.</sub>
 </td>
 <td width="33%" valign="top">
 
 ### 🏆 BWL League
-Multi-role sports platform with **real daily users**. RLS policies for role-based access, Supabase Realtime for live score updates. Live at [bwlleague.com](https://bwlleague.com).
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+<a href="https://www.bwlleague.com/">
+  <img
+    src="https://aisaaswithmustafa.com/assets/img/portfolio/football-tournament-dashboard-nextjs-supabase-postgresql-600w.jpg"
+    alt="BWL League multi-role football tournament dashboard"
+    width="100%"
+  />
+</a>
 
+Multi-role **sports tournament platform with real daily users**, built around player, team and admin roles.
+
+Row-level security policies for role-based access, Supabase Realtime for live scores and standings, and Android app support.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Realtime`
+
+[Live product](https://www.bwlleague.com/) · [Portfolio](https://aisaaswithmustafa.com/portfolio.html) · [Case study](https://aisaaswithmustafa.com/assets/docs/bwlleague-case-study.pdf)
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
 ### 🚚 Apex Logistics
-Production logistics platform — actively maintaining and shipping features for a live client. Modern React 19 architecture with TanStack Start, Query & Router. Live at [apexlogistics.life](https://apexlogistics.life).
 
-`React 19` `TanStack` `TypeScript` `Firestore`
+<a href="https://apexlogistics.life/">
+  <img
+    src="https://aisaaswithmustafa.com/assets/img/portfolio/apex-logistics-driver-job-marketplace-react-tanstack-pwa-600w.jpg"
+    alt="Apex Logistics GCC freight platform with shipment quotes and logistics workflows"
+    width="100%"
+  />
+</a>
 
+**GCC freight and driver marketplace** that I actively maintain and ship features for, for a live client.
+
+Modern React 19 architecture with TanStack Start, Query and Router. I fixed the Firestore security rules, built the driver bidding flow, implemented Xero OAuth2 server-side and traced a production-only Cloud Run failure.
+
+`React 19` `TanStack` `TypeScript` `Firestore` `PWA`
+
+[Live product](https://apexlogistics.life/) · [Portfolio](https://aisaaswithmustafa.com/portfolio.html) · [Case study](https://aisaaswithmustafa.com/assets/docs/apexlogistics-case-study.pdf)
 </td>
 <td width="33%" valign="top">
 
 ### 🎯 JobHunter
-**AI-powered job hunt agent** that auto-searches LinkedIn, Google Jobs & Indeed, then tailors your CV per posting using AI. Live at [jobhunter-lemon.vercel.app](https://jobhunter-lemon.vercel.app/).
 
-`TypeScript` `AI Agents` `Automation`
+<a href="https://jobhunter-lemon.vercel.app/">
+  <img
+    src="https://aisaaswithmustafa.com/assets/img/portfolio/ai-react-nextjs-job-search-agent-banner-600w.jpg"
+    alt="JobHunter AI job search and CV tailoring agent built with React and Next.js"
+    width="100%"
+  />
+</a>
 
+**AI-powered job hunt agent** that searches LinkedIn, Google Jobs and Indeed for matching roles.
+
+It then tailors a CV for each posting using AI. Built with Next.js 14, TypeScript, React and Claude AI.
+
+`Next.js` `TypeScript` `React` `Claude AI` `AI Agents`
+
+[Live product](https://jobhunter-lemon.vercel.app/) · [Source code](https://github.com/m-mustufa/jobhunter) · [Portfolio](https://aisaaswithmustafa.com/portfolio.html)
 </td>
 <td width="33%" valign="top">
 
 ### 🛍️ Shopify Social Image Automation
-Multi-store Shopify app that generates **branded 1200×628 social preview images** whenever a product is created or updated. Signed webhooks, encrypted per-shop tokens, uploads to the merchant's own Shopify Files and updates Open Graph metafields. Code at [shopify-image-app](https://github.com/m-mustufa/shopify-image-app).
 
-`Node.js` `Express` `Shopify GraphQL` `Sharp`
+<a href="https://github.com/m-mustufa/shopify-image-app">
+  <img
+    src="https://aisaaswithmustafa.com/assets/img/portfolio/shopify-social-image-automation-whatsapp-open-graph-nodejs-app-600w.jpg"
+    alt="Shopify social image automation app generating branded product images for WhatsApp and Open Graph previews"
+    width="100%"
+  />
+</a>
 
+Multi-store Shopify app that generates **branded 1200×628 social preview images** whenever a product is created or updated.
+
+Node.js and Express backend with signed webhooks, encrypted per-shop tokens and the GraphQL Admin API. Images are built with Sharp, uploaded to the merchant's own Shopify Files and set as Open Graph metafields.
+
+`Node.js` `Express` `Shopify GraphQL` `Sharp` `Webhooks`
+
+[Source code](https://github.com/m-mustufa/shopify-image-app) · [Portfolio](https://aisaaswithmustafa.com/portfolio.html)
 </td>
 </tr>
 </table>
