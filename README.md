@@ -61,7 +61,10 @@ Production logistics platform — actively maintaining and shipping features for
 </td>
 <td width="33%" valign="top">
 
-&nbsp;
+### 🛍️ Shopify Social Image Automation
+Multi-store Shopify app that generates **branded 1200×628 social preview images** whenever a product is created or updated. Signed webhooks, encrypted per-shop tokens, uploads to the merchant's own Shopify Files and updates Open Graph metafields. Code at [shopify-image-app](https://github.com/m-mustufa/shopify-image-app).
+
+`Node.js` `Express` `Shopify GraphQL` `Sharp`
 
 </td>
 </tr>
