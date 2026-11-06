@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,100:2ec4b6&height=200&section=header&text=Muhammad%20Mustufa&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full-Stack%20SaaS%20%26%20AI%20Developer&descSize=20&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,100:2ec4b6&height=200&section=header&text=Muhammad%20Mustufa&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full-Stack%20SaaS%20%26amp%3B%20AI%20Developer&descSize=20&descAlignY=75" width="100%"/>
 
 <!-- Contact Badges -->
 <p>
