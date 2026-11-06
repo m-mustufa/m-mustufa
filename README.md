@@ -5,7 +5,7 @@
 
 <!-- Contact Badges -->
 <p>
-<a href="https://pk.linkedin.com/in/muhammad-mustafa-16477a99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:mustufa50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="aisaaswithmustafa.com"><img src="https://img.shields.io/badge/Portfolio-2ec4b6?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-mustafa-16477a99/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:mustufa50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://aisaaswithmustafa.com/"><img src="https://img.shields.io/badge/Portfolio-2ec4b6?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
 
 <!-- Typing Effect -->
@@ -20,10 +20,24 @@
 <td width="33%" valign="top">
 
 ### 🤖 CultureAI
-Solo-built, **live multi-tenant AI SaaS** for employee engagement. OpenAI + agentic workflows, Stripe per-seat billing, RBAC, Clerk SSO, real-time analytics. Live at [startcultureai.com](https://app.startcultureai.com).
 
-`React` `Node.js` `MongoDB` `Stripe` `OpenAI`
+<a href="https://app.startcultureai.com/">
+  <img
+    src="https://aisaaswithmustafa.com/assets/img/portfolio/cultureai-ai-employee-engagement-saas-dashboard-banner-600w.jpg"
+    alt="CultureAI multi-tenant employee engagement SaaS dashboard with pulse surveys and AI-powered workplace insights"
+    width="100%"
+  />
+</a>
 
+Solo-built **multi-tenant B2B employee engagement SaaS** that turns pulse-survey feedback into practical workplace culture insights.
+
+Built the React and TypeScript frontend, Node.js and Express APIs, MongoDB data layer, OpenAI analysis workflows, Clerk authentication and Stripe subscription billing.
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `OpenAI` `Clerk` `Stripe`
+
+[Live product](https://app.startcultureai.com/) · [Portfolio](https://aisaaswithmustafa.com/portfolio.html) · [Case study](https://aisaaswithmustafa.com/assets/docs/cultureai-case-study.pdf)
+
+<sub>Production source code is private because CultureAI is an active commercial product.</sub>
 </td>
 <td width="33%" valign="top">
 
@@ -95,7 +109,7 @@ Most of my work lives in **private client repos** — the products above are whe
 
 **Didn't spot the skill you need? Let's chat anyway — I thrive on learning new tools and building what's next!**
 
-<p><a href="aisaaswithmustafa.com"><b>AISaaSwithMustafa.com</b></a></p>
+<p><a href="https://aisaaswithmustafa.com/"><b>AISaaSwithMustafa.com</b></a></p>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,100:2ec4b6&height=120&section=footer" width="100%"/>
